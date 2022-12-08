@@ -1,5 +1,6 @@
 {
   "name": "simple-covid-dashboard",
+  "homepage": "https://felix-staud.github.io/simple-covid-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
